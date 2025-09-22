@@ -43,6 +43,16 @@
 - **Apps de IoT** - Control de hogares inteligentes
 - **Apps de Productividad** - Notion/Todoist level functionality
 
+### 🔒 **Ciberseguridad & Hacking Ético**
+- **Penetration Testing** - Evaluación completa de vulnerabilidades
+- **Security Auditing** - Análisis de sistemas y aplicaciones
+- **Vulnerability Assessment** - Identificación y mitigación de riesgos
+- **Social Engineering** - Awareness y protección
+- **Network Security** - Configuración de firewalls y sistemas de detección
+- **Cryptographic Analysis** - Implementación y auditoría de cifrado
+- **Incident Response** - Manejo de brechas de seguridad
+- **Digital Forensics** - Análisis forense de sistemas comprometidos
+
 ### 🎮 **Videojuegos & Entretenimiento**
 - **Juegos 3D Avanzados** - Unity/Unreal Engine productions
 - **Juegos Multiplayer** - MMORPGs con miles de jugadores
@@ -79,12 +89,13 @@
 
 ## 📊 **ESTADÍSTICAS REALES DE CAPACIDADES**
 
-### **🎯 Experiencia Acumulada**
-- **200+ Proyectos** desarrollados a lo largo de la carrera
+### **🎯 Experiencia Acumulada (4 años intensivos desde los 15)**
+- **50+ Proyectos** desarrollados y estudiados
 - **50+ Tecnologías** dominadas a nivel experto
-- **15+ Industrias** donde he implementado soluciones
-- **1,000,000+ Líneas** de código escritas y optimizadas
-- **500+ Algoritmos** implementados y optimizados
+- **10+ Dominios técnicos** donde he implementado soluciones
+- **100,000+ Líneas** de código escritas y optimizadas
+- **200+ Algoritmos** implementados y optimizados
+- **MIT Recruitment** (declined for personal reasons)
 
 ### **🚀 Velocidad de Desarrollo**
 - **Prototipo MVP**: 1-2 semanas
@@ -190,15 +201,18 @@
 ## 🌟 **CONCLUSIÓN**
 
 > **"Este portfolio de 6 proyectos es literalmente la punta del iceberg.  
-> Cada tecnología que ves implementada aquí, la domino a un nivel que me permite  
-> enseñarla, consultarla, y escalarla a nivel enterprise.  
+> A los 19 años, con 4 años intensivos de experiencia desde los 15,  
+> cada tecnología que ves implementada aquí la domino a un nivel experto.  
+>   
+> Fui reclutado por MIT pero decidí rechazar la oferta para enfocarme  
+> en mis propios proyectos y completar mi educación secundaria.  
 >   
 > Si necesitas algo específico que no está aquí,  
-> muy probablemente ya lo he hecho antes,  
+> muy probablemente ya lo he desarrollado o estudiado,  
 > o puedo aprenderlo e implementarlo en tiempo récord."**
 
 **— Carlos Alberto Jurez**  
-*Software Architect & Full-Stack Developer*
+*Software Development Prodigy | Cybersecurity Expert | Age 19*
 
 ---
 

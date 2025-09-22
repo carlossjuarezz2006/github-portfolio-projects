@@ -20,17 +20,29 @@
 
 **Mis conocimientos completos incluyen:**
 - 🔥 **50+ tecnologías** dominadas
-- 🚀 **15+ años** de experiencia acumulada
-- 🎨 **100+ proyectos** desarrollados
-- 🏗️ **Arquitecturas enterprise** de gran escala
+- 🚀 **4 años** de experiencia intensiva desde los 15 años
+- 🎨 **50+ proyectos** desarrollados y estudiados
+- 🏗️ **Arquitecturas enterprise** implementadas y dominadas
 
 ---
 
-## 👋 About
+## 👋 About Carlos Alberto Jurez
 
-Welcome to my comprehensive software development portfolio! This repository showcases a diverse range of projects demonstrating expertise across **full-stack development**, **algorithms**, **cybersecurity**, **automation**, **machine learning**, and **advanced system architecture**.
+**Software Development Prodigy | Cybersecurity Expert | 19 years old**
 
-Each project is production-ready with comprehensive documentation, testing, and deployment configurations.
+Carlos Alberto Jurez is a self-taught software development prodigy who began programming at age 15. Despite his young age, he has achieved remarkable mastery across multiple technological domains and was recruited by MIT (which he declined to focus on personal projects and complete his secondary education).
+
+Currently in his final year of secondary school (graduating 2025), Carlos has already developed expertise that rivals senior developers with decades of experience. His portfolio showcases advanced knowledge in **full-stack development**, **algorithms**, **ethical hacking**, **cybersecurity**, **automation**, **machine learning**, and **enterprise system architecture**.
+
+**Key Achievements:**
+- 4 years of intensive self-directed learning and development
+- Mastery of 50+ programming languages and technologies  
+- Advanced cybersecurity and ethical hacking expertise
+- Recruited by MIT (declined for personal reasons)
+- 100,000+ lines of code across various projects
+- Expertise in both cutting-edge and enterprise technologies
+
+Each project in this portfolio is production-ready with comprehensive documentation, testing, and deployment configurations.
 
 ---
 
@@ -270,8 +282,8 @@ cd automation-devops/file-organizer/      # Intelligent automation
 
 ### 🎯 **NOTA IMPORTANTE**
 > **Estos números representan únicamente lo mostrado en este portfolio.  
-> Mi experiencia real incluye 500,000+ líneas de código en producción,  
-> 100+ tecnologías dominadas, y 15+ años de desarrollo profesional.**
+> Mi experiencia real incluye 100,000+ líneas de código desarrolladas,  
+> 50+ tecnologías dominadas, y 4 años intensivos de desarrollo desde los 15 años.**
 
 ---
 
