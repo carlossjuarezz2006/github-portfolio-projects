@@ -26,73 +26,73 @@
 
 ---
 
-## 👋 About Carlos Alberto Jurez
+## 👋 Acerca de Carlos Alberto Jurez
 
-**Software Development Prodigy | Cybersecurity Expert | 19 years old**
+**Prodigio en Desarrollo de Software | Experto en Ciberseguridad | 19 años**
 
-Carlos Alberto Jurez is a self-taught software development prodigy who began programming at age 15. Despite his young age, he has achieved remarkable mastery across multiple technological domains and was recruited by MIT (which he declined to focus on personal projects and complete his secondary education).
+Carlos Alberto Jurez es un prodigio autodidacta en desarrollo de software que comenzó a programar a los 15 años. A pesar de su corta edad, ha logrado un dominio extraordinario en múltiples dominios tecnológicos y fue reclutado por el MIT (oferta que rechazó para enfocarse en proyectos personales y completar su educación secundaria).
 
-Currently in his final year of secondary school (graduating 2025), Carlos has already developed expertise that rivals senior developers with decades of experience. His portfolio showcases advanced knowledge in **full-stack development**, **algorithms**, **ethical hacking**, **cybersecurity**, **automation**, **machine learning**, and **enterprise system architecture**.
+Actualmente cursando su último año de secundaria (graduación 2025), Carlos ya ha desarrollado una experiencia que rivaliza con desarrolladores senior con décadas de experiencia. Su portfolio demuestra conocimiento avanzado en **desarrollo full-stack**, **algoritmos**, **hacking ético**, **ciberseguridad**, **automatización**, **machine learning**, y **arquitectura de sistemas enterprise**.
 
-**Key Achievements:**
-- 4 years of intensive self-directed learning and development
-- Mastery of 50+ programming languages and technologies  
-- Advanced cybersecurity and ethical hacking expertise
-- Recruited by MIT (declined for personal reasons)
-- 100,000+ lines of code across various projects
-- Expertise in both cutting-edge and enterprise technologies
+**Logros Destacados:**
+- 4 años de aprendizaje y desarrollo autodidacta intensivo
+- Dominio de 50+ lenguajes de programación y tecnologías
+- Experiencia avanzada en ciberseguridad y hacking ético  
+- Reclutado por MIT (rechazado por razones personales)
+- 100,000+ líneas de código a través de varios proyectos
+- Experiencia tanto en tecnologías de vanguardia como enterprise
 
-Each project in this portfolio is production-ready with comprehensive documentation, testing, and deployment configurations.
+Cada proyecto en este portfolio está listo para producción con documentación completa, testing y configuraciones de deployment.
 
 ---
 
-## 📂 Project Categories
+## 📂 Categorías de Proyectos
 
-### 🎯 **Fundamentals**
-Core computer science and web development skills:
+### 🎯 **Fundamentos**
+Habilidades esenciales en ciencias de la computación y desarrollo web:
 
-#### 📝 [**To-Do App**](fundamentals/todo-app/)
+#### 📝 [**Aplicación To-Do**](fundamentals/todo-app/)
 - **Full-Stack**: React + Node.js + MongoDB
-- **Features**: JWT Authentication, CRUD operations, Testing
-- **Technologies**: Express.js, Jest, React Context API
+- **Características**: Autenticación JWT, operaciones CRUD, Testing
+- **Tecnologías**: Express.js, Jest, React Context API
 
-#### 🧮 [**Algorithms & Data Structures**](fundamentals/algorithms-data-structures/)
-- **Languages**: Python + JavaScript implementations
-- **Content**: Sorting, Searching, Trees, Graphs, Dynamic Programming
-- **Features**: Performance benchmarks, complexity analysis
+#### 🧮 [**Algoritmos y Estructuras de Datos**](fundamentals/algorithms-data-structures/)
+- **Lenguajes**: Implementaciones en Python + JavaScript
+- **Contenido**: Ordenamiento, Búsqueda, Árboles, Grafos, Programación Dinámica
+- **Características**: Benchmarks de rendimiento, análisis de complejidad
 
-#### 🏪 [**REST API Bookstore**](fundamentals/rest-api-bookstore/)
-- **Architecture**: Enterprise-grade Node.js API
-- **Features**: Swagger docs, Authentication, Validation, Testing
-- **Technologies**: Express.js, MongoDB, JWT, OpenAPI
+#### 🏪 [**API REST Librería**](fundamentals/rest-api-bookstore/)
+- **Arquitectura**: API Node.js de nivel enterprise
+- **Características**: Documentación Swagger, Autenticación, Validación, Testing
+- **Tecnologías**: Express.js, MongoDB, JWT, OpenAPI
 
 ---
 
-### 🚀 **Advanced Projects**
-Cutting-edge applications with modern technologies:
+### 🚀 **Proyectos Avanzados**
+Aplicaciones de vanguardia con tecnologías modernas:
 
-#### 📊 [**Real-time Dashboard**](advanced-projects/realtime-dashboard/)
-- **Real-time**: WebSockets + Socket.IO
+#### 📊 [**Dashboard en Tiempo Real**](advanced-projects/realtime-dashboard/)
+- **Tiempo Real**: WebSockets + Socket.IO
 - **Stack**: React + Material-UI + Node.js + Express
-- **Features**: Live metrics, System monitoring, Beautiful visualizations
-- **Technologies**: Framer Motion, Recharts, Zustand
+- **Características**: Métricas en vivo, Monitoreo de sistemas, Visualizaciones hermosas
+- **Tecnologías**: Framer Motion, Recharts, Zustand
 
-#### 🔐 [**Advanced Password Analyzer**](advanced-projects/password-analyzer/)
-- **Cryptography**: Shannon Entropy + Information Theory
-- **Features**: Mathematical analysis, Pattern detection, Educational content
-- **Technologies**: Python + React, Advanced mathematics
-- **Educational**: Cryptographic concepts and security analysis
+#### 🔐 [**Analizador Avanzado de Contraseñas**](advanced-projects/password-analyzer/)
+- **Criptografía**: Entropía de Shannon + Teoría de la Información
+- **Características**: Análisis matemático, Detección de patrones, Contenido educativo
+- **Tecnologías**: Python + React, Matemáticas avanzadas
+- **Educativo**: Conceptos criptográficos y análisis de seguridad
 
 ---
 
-### ⚡ **Automation & DevOps**
-Process automation and development operations:
+### ⚡ **Automatización y DevOps**
+Automatización de procesos y operaciones de desarrollo:
 
-#### 🗂️ [**Intelligent File Organizer**](automation-devops/file-organizer/)
-- **Intelligence**: AI-powered file classification
-- **Features**: Duplicate detection, Transaction logging, CLI interface
-- **Technologies**: Python, Rich CLI, SQLite, MIME detection
-- **Capabilities**: Smart categorization, Rollback support
+#### 🗂️ [**Organizador Inteligente de Archivos**](automation-devops/file-organizer/)
+- **Inteligencia**: Clasificación de archivos potenciada por IA
+- **Características**: Detección de duplicados, Registro de transacciones, Interfaz CLI
+- **Tecnologías**: Python, Rich CLI, SQLite, Detección MIME
+- **Capacidades**: Categorización inteligente, Soporte de rollback
 
 ---
 
@@ -182,103 +182,103 @@ Process automation and development operations:
 - **Documentación**: Sphinx, GitBook, Docusaurus, MkDocs, JSDoc
 - **Testing**: JUnit, pytest, Mocha, Jasmine, Selenium, Postman
 
-## 🛠️ **Technical Skills Demonstrated in This Portfolio**
+## 🛠️ **Habilidades Técnicas Demostradas en Este Portfolio**
 
-### **Backend Development**
-- ✅ **Node.js + Express.js** - Scalable REST APIs
-- ✅ **Python** - Advanced scripting and analysis
-- ✅ **Database Design** - MongoDB, SQLite
-- ✅ **Authentication** - JWT, Security best practices
-- ✅ **WebSocket Programming** - Real-time communication
+### **Desarrollo Backend**
+- ✅ **Node.js + Express.js** - APIs REST escalables
+- ✅ **Python** - Scripting avanzado y análisis
+- ✅ **Diseño de Bases de Datos** - MongoDB, SQLite
+- ✅ **Autenticación** - JWT, mejores prácticas de seguridad
+- ✅ **Programación WebSocket** - Comunicación en tiempo real
 
-### **Frontend Development**
-- ✅ **React 18** - Modern React with Hooks
-- ✅ **Material-UI** - Professional UI components
-- ✅ **State Management** - Context API, Zustand
-- ✅ **Data Visualization** - Recharts, Chart.js
-- ✅ **Animations** - Framer Motion
+### **Desarrollo Frontend**
+- ✅ **React 18** - React moderno con Hooks
+- ✅ **Material-UI** - Componentes UI profesionales
+- ✅ **Gestión de Estado** - Context API, Zustand
+- ✅ **Visualización de Datos** - Recharts, Chart.js
+- ✅ **Animaciones** - Framer Motion
 
-### **Architecture & Patterns**
-- ✅ **RESTful APIs** - Industry standard design
-- ✅ **Real-time Systems** - WebSocket architecture
-- ✅ **Transaction Management** - ACID compliance
-- ✅ **Error Handling** - Comprehensive error strategies
-- ✅ **Testing** - Unit, Integration, E2E testing
+### **Arquitectura y Patrones**
+- ✅ **APIs RESTful** - Diseño estándar de la industria
+- ✅ **Sistemas en Tiempo Real** - Arquitectura WebSocket
+- ✅ **Gestión de Transacciones** - Cumplimiento ACID
+- ✅ **Manejo de Errores** - Estrategias integrales de errores
+- ✅ **Testing** - Pruebas unitarias, de integración, E2E
 
-### **DevOps & Automation**
-- ✅ **CI/CD Pipelines** - GitHub Actions
-- ✅ **Process Automation** - File management, Task automation
-- ✅ **Monitoring** - System metrics, Performance tracking
-- ✅ **Documentation** - Comprehensive technical docs
+### **DevOps y Automatización**
+- ✅ **Pipelines CI/CD** - GitHub Actions
+- ✅ **Automatización de Procesos** - Gestión de archivos, automatización de tareas
+- ✅ **Monitoreo** - Métricas del sistema, seguimiento de rendimiento
+- ✅ **Documentación** - Documentación técnica integral
 
-### **Mathematics & Algorithms**
-- ✅ **Information Theory** - Shannon Entropy calculations
-- ✅ **Cryptographic Analysis** - Security assessment
-- ✅ **Algorithm Complexity** - Big O analysis
-- ✅ **Data Structures** - Advanced implementations
-- ✅ **Performance Optimization** - Benchmarking and tuning
-
----
-
-## 🎯 **Key Highlights**
-
-### **🔥 Production Quality**
-- **Comprehensive Documentation** - Detailed README files, API docs
-- **Extensive Testing** - Unit tests, integration tests, coverage reports
-- **Security First** - Authentication, authorization, input validation
-- **Error Handling** - Graceful failure modes and recovery
-- **Performance Optimized** - Efficient algorithms and data structures
-
-### **📈 **Scalable Architecture**
-- **Microservices Ready** - Modular, decoupled components
-- **Database Optimization** - Efficient queries and indexing
-- **Caching Strategies** - Performance enhancement
-- **Real-time Capabilities** - WebSocket and event-driven architecture
-- **Transaction Safety** - Rollback capabilities and data integrity
-
-### **🎨 **User Experience**
-- **Responsive Design** - Mobile-first approach
-- **Interactive Interfaces** - Rich, engaging user experiences
-- **Progressive Enhancement** - Accessibility and performance
-- **Real-time Updates** - Live data synchronization
-- **Professional UI** - Modern design systems
+### **Matemáticas y Algoritmos**
+- ✅ **Teoría de la Información** - Cálculos de Entropía de Shannon
+- ✅ **Análisis Criptográfico** - Evaluación de seguridad
+- ✅ **Complejidad Algorítmica** - Análisis Big O
+- ✅ **Estructuras de Datos** - Implementaciones avanzadas
+- ✅ **Optimización de Rendimiento** - Benchmarking y ajuste
 
 ---
 
-## 🚀 **Getting Started**
+## 🎯 **Características Destacadas**
 
-### **Quick Exploration**
-Each project includes comprehensive setup instructions:
+### **🔥 Calidad de Producción**
+- **Documentación Completa** - Archivos README detallados, documentación de APIs
+- **Testing Extensivo** - Pruebas unitarias, de integración, reportes de cobertura
+- **Seguridad Primero** - Autenticación, autorización, validación de entradas
+- **Manejo de Errores** - Modos de falla elegantes y recuperación
+- **Optimizado para Rendimiento** - Algoritmos y estructuras de datos eficientes
+
+### **📈 Arquitectura Escalable**
+- **Listo para Microservicios** - Componentes modulares y desacoplados
+- **Optimización de Base de Datos** - Consultas eficientes e indexación
+- **Estrategias de Cache** - Mejora del rendimiento
+- **Capacidades en Tiempo Real** - Arquitectura WebSocket y basada en eventos
+- **Seguridad Transaccional** - Capacidades de rollback e integridad de datos
+
+### **🎨 Experiencia de Usuario**
+- **Diseño Responsivo** - Enfoque mobile-first
+- **Interfaces Interactivas** - Experiencias de usuario ricas y atractivas
+- **Mejora Progresiva** - Accesibilidad y rendimiento
+- **Actualizaciones en Tiempo Real** - Sincronización de datos en vivo
+- **UI Profesional** - Sistemas de diseño modernos
+
+---
+
+## 🚀 **Primeros Pasos**
+
+### **Exploración Rápida**
+Cada proyecto incluye instrucciones completas de configuración:
 
 ```bash
-# Clone the portfolio
-git clone https://github.com/carlos-alberto-jurez/github-portfolio-projects.git
+# Clonar el portfolio
+git clone https://github.com/carlossjuarezz2006/github-portfolio-projects.git
 cd github-portfolio-projects
 
-# Explore individual projects
-cd fundamentals/todo-app/          # Full-stack web app
-cd advanced-projects/realtime-dashboard/  # Real-time dashboard
-cd automation-devops/file-organizer/      # Intelligent automation
+# Explorar proyectos individuales
+cd fundamentals/todo-app/          # Aplicación web full-stack
+cd advanced-projects/realtime-dashboard/  # Dashboard en tiempo real
+cd automation-devops/file-organizer/      # Automatización inteligente
 ```
 
-### **Prerequisites**
-- **Node.js 18+** - JavaScript runtime
-- **Python 3.8+** - Python applications
-- **MongoDB** - Database (or Docker alternative)
-- **Git** - Version control
+### **Prerequisitos**
+- **Node.js 18+** - Runtime de JavaScript
+- **Python 3.8+** - Aplicaciones Python
+- **MongoDB** - Base de datos (o alternativa Docker)
+- **Git** - Control de versiones
 
 ---
 
-## 📊 **Project Statistics**
+## 📊 **Estadísticas del Proyecto**
 
-| Category | Projects | Technologies | Lines of Code |
+| Categoría | Proyectos | Tecnologías | Líneas de Código |
 |----------|----------|-------------|---------------|
-| **Fundamentals** | 3 | React, Node.js, Python, MongoDB | ~15,000+ |
-| **Advanced** | 2 | WebSockets, Cryptography, Material-UI | ~12,000+ |
-| **Automation** | 1 | Python, CLI, AI Classification | ~8,000+ |
-| **Code Showcase** | 1 | Python, JavaScript, Rust, Go | ~2,000+ |
-| **Documentation** | 3 | Comprehensive technical docs | ~5,000+ |
-| **Total** | **10** | **50+ Technologies** | **42,000+ LOC** |
+| **Fundamentos** | 3 | React, Node.js, Python, MongoDB | ~15,000+ |
+| **Avanzados** | 2 | WebSockets, Criptografía, Material-UI | ~12,000+ |
+| **Automatización** | 1 | Python, CLI, Clasificación IA | ~8,000+ |
+| **Showcase Código** | 1 | Python, JavaScript, Rust, Go | ~2,000+ |
+| **Documentación** | 3 | Documentos técnicos integrales | ~5,000+ |
+| **Total** | **10** | **50+ Tecnologías** | **42,000+ LDC** |
 
 ### 🎯 **NOTA IMPORTANTE**
 > **Estos números representan únicamente lo mostrado en este portfolio.  
@@ -287,132 +287,132 @@ cd automation-devops/file-organizer/      # Intelligent automation
 
 ---
 
-## 🏆 **Project Maturity Levels**
+## 🏆 **Niveles de Madurez del Proyecto**
 
-### **🌟 Production Ready**
-- ✅ **Real-time Dashboard** - Enterprise monitoring solution
-- ✅ **Password Analyzer** - Educational cryptography tool
-- ✅ **File Organizer** - Professional automation utility
+### **🌟 Listo para Producción**
+- ✅ **Dashboard en Tiempo Real** - Solución de monitoreo enterprise
+- ✅ **Analizador de Contraseñas** - Herramienta educativa de criptografía
+- ✅ **Organizador de Archivos** - Utilidad de automatización profesional
 
-### **🚀 **Portfolio Showcase**
-- ✅ **REST API Bookstore** - Complete backend solution
-- ✅ **To-Do App** - Full-stack web application
-- ✅ **Algorithms Collection** - Computer science fundamentals
-
----
-
-## 💼 **Professional Applications**
-
-### **Enterprise Solutions**
-- **Real-time Monitoring** - System dashboards for operations teams
-- **Security Analysis** - Password policy development and training
-- **Process Automation** - File management and organization systems
-
-### **Educational Resources**
-- **Algorithm Learning** - Interactive computer science education
-- **Cryptography Training** - Information security concepts
-- **Full-Stack Development** - Modern web development practices
-
-### **Development Tools**
-- **API Development** - RESTful backend services
-- **UI Components** - Reusable React component libraries
-- **Automation Scripts** - Productivity enhancement tools
+### **🚀 Showcase del Portfolio**
+- ✅ **API REST Librería** - Solución backend completa
+- ✅ **Aplicación To-Do** - Aplicación web full-stack
+- ✅ **Colección de Algoritmos** - Fundamentos de ciencias de la computación
 
 ---
 
-## 🔬 **Testing & Quality Assurance**
+## 💼 **Aplicaciones Profesionales**
 
-All projects include comprehensive testing:
+### **Soluciones Enterprise**
+- **Monitoreo en Tiempo Real** - Dashboards de sistema para equipos de operaciones
+- **Análisis de Seguridad** - Desarrollo de políticas de contraseñas y entrenamiento
+- **Automatización de Procesos** - Sistemas de gestión y organización de archivos
 
-- **Unit Tests** - Individual component testing
-- **Integration Tests** - API and database testing  
-- **End-to-End Tests** - Complete user workflow testing
-- **Performance Tests** - Load and stress testing
-- **Security Tests** - Vulnerability assessment
+### **Recursos Educativos**
+- **Aprendizaje de Algoritmos** - Educación interactiva en ciencias de la computación
+- **Entrenamiento en Criptografía** - Conceptos de seguridad de la información
+- **Desarrollo Full-Stack** - Prácticas modernas de desarrollo web
 
----
-
-## 📚 **Documentation Standards**
-
-Every project features:
-
-- **📖 Comprehensive README** - Setup, usage, architecture
-- **🔧 API Documentation** - Swagger/OpenAPI specifications  
-- **🧪 Testing Guides** - Test execution and coverage
-- **🚀 Deployment Instructions** - Production setup
-- **💡 Code Comments** - Inline documentation and explanations
+### **Herramientas de Desarrollo**
+- **Desarrollo de APIs** - Servicios backend RESTful
+- **Componentes UI** - Bibliotecas de componentes React reutilizables
+- **Scripts de Automatización** - Herramientas de mejora de productividad
 
 ---
 
-## 🤝 **Collaboration & Contribution**
+## 🔬 **Testing y Aseguramiento de Calidad**
 
-While this is a personal portfolio, the projects demonstrate:
+Todos los proyectos incluyen testing comprensivo:
 
-- **Git Best Practices** - Semantic commits, branching strategies
-- **Code Review Ready** - Clean, documented, testable code
-- **Open Source Standards** - MIT licensing, contribution guidelines
-- **Professional Workflow** - Issue tracking, pull requests
-
----
-
-## 📈 **Continuous Improvement**
-
-This portfolio represents continuous learning and improvement:
-
-- **Modern Technologies** - Latest versions and best practices
-- **Security Updates** - Regular dependency updates
-- **Performance Optimization** - Ongoing improvements
-- **Feature Enhancement** - Based on real-world usage
+- **Pruebas Unitarias** - Testing de componentes individuales
+- **Pruebas de Integración** - Testing de APIs y bases de datos
+- **Pruebas End-to-End** - Testing completo de flujos de usuario
+- **Pruebas de Rendimiento** - Testing de carga y estrés
+- **Pruebas de Seguridad** - Evaluación de vulnerabilidades
 
 ---
 
-## 🌐 **Deployment & Hosting**
+## 📚 **Estándares de Documentación**
 
-Projects are designed for multiple deployment strategies:
+Cada proyecto incluye:
 
-- **Docker Containerization** - Portable, scalable deployments
-- **Cloud Platform Ready** - AWS, Azure, GCP compatible
-- **CI/CD Integration** - Automated testing and deployment
-- **Environment Configuration** - Development, staging, production
+- **📖 README Integral** - Configuración, uso, arquitectura
+- **🔧 Documentación de API** - Especificaciones Swagger/OpenAPI
+- **🧪 Guías de Testing** - Ejecución de pruebas y cobertura
+- **🚀 Instrucciones de Deployment** - Configuración de producción
+- **💡 Comentarios de Código** - Documentación inline y explicaciones
 
 ---
 
-## 📞 **Contact & Connect**
+## 🤝 **Colaboración y Contribución**
+
+Aunque este es un portfolio personal, los proyectos demuestran:
+
+- **Mejores Prácticas de Git** - Commits semánticos, estrategias de branching
+- **Listo para Code Review** - Código limpio, documentado y testeable
+- **Estándares Open Source** - Licenciamiento MIT, guías de contribución
+- **Flujo de Trabajo Profesional** - Seguimiento de issues, pull requests
+
+---
+
+## 📈 **Mejora Continua**
+
+Este portfolio representa aprendizaje y mejora continua:
+
+- **Tecnologías Modernas** - Últimas versiones y mejores prácticas
+- **Actualizaciones de Seguridad** - Actualizaciones regulares de dependencias
+- **Optimización de Rendimiento** - Mejoras continuas
+- **Mejora de Características** - Basado en uso del mundo real
+
+---
+
+## 🌐 **Deployment y Hosting**
+
+Los proyectos están diseñados para múltiples estrategias de deployment:
+
+- **Contenedorización Docker** - Deployments portátiles y escalables
+- **Listo para Plataformas Cloud** - Compatible con AWS, Azure, GCP
+- **Integración CI/CD** - Testing y deployment automatizado
+- **Configuración de Ambientes** - Desarrollo, staging, producción
+
+---
+
+## 📞 **Contacto y Conexión**
 
 **Carlos Alberto Jurez**  
-*Software Developer & System Architect*
+*Desarrollador de Software y Arquitecto de Sistemas*
 
-- **Portfolio**: [GitHub Repository](https://github.com/carlos-alberto-jurez/github-portfolio-projects)
-- **Professional Focus**: Full-Stack Development, System Architecture, Automation
-- **Specializations**: Real-time Systems, Cryptographic Analysis, Process Automation
+- **Portfolio**: [Repositorio GitHub](https://github.com/carlossjuarezz2006/github-portfolio-projects)
+- **Enfoque Profesional**: Desarrollo Full-Stack, Arquitectura de Sistemas, Automatización
+- **Especializaciones**: Sistemas en Tiempo Real, Análisis Criptográfico, Automatización de Procesos
 
 ---
 
-## 📄 **License**
+## 📄 **Licencia**
 
-This portfolio and all included projects are licensed under the **MIT License**.
+Este portfolio y todos los proyectos incluidos están licenciados bajo la **Licencia MIT**.
 
 **Copyright (c) 2024 Carlos Alberto Jurez**
 
-See individual project LICENSE files for specific details.
+Ver archivos LICENSE individuales de cada proyecto para detalles específicos.
 
 ---
 
-## 🎯 **Next Steps**
+## 🎯 **Próximos Pasos**
 
-This portfolio continues to evolve with new projects and technologies:
+Este portfolio continúa evolucionando con nuevos proyectos y tecnologías:
 
-- **Machine Learning Projects** - AI/ML applications
-- **Mobile Development** - React Native applications  
-- **Blockchain Applications** - Smart contracts and DApps
-- **IoT Projects** - Hardware integration and automation
-- **Cloud-Native Solutions** - Microservices and serverless
+- **Proyectos de Machine Learning** - Aplicaciones de IA/ML
+- **Desarrollo Móvil** - Aplicaciones React Native
+- **Aplicaciones Blockchain** - Smart contracts y DApps
+- **Proyectos IoT** - Integración de hardware y automatización
+- **Soluciones Cloud-Native** - Microservicios y serverless
 
 ---
 
-⭐ **If you find this portfolio impressive, please give it a star!** ⭐
+⭐ **¡Si encuentras este portfolio impresionante, por favor dale una estrella!** ⭐
 
-*Thank you for exploring my software development journey.*
+*Gracias por explorar mi trayectoria en desarrollo de software.*
 
 ---
 
