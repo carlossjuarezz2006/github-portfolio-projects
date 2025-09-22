@@ -1,0 +1,70 @@
+{
+  "name": "algorithms-data-structures-js",
+  "version": "1.0.0",
+  "description": "JavaScript implementations of fundamental algorithms and data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "demo:stack": "node data_structures/stack.js",
+    "demo:mergesort": "node sorting/merge_sort.js",
+    "benchmark": "node benchmarks/benchmark.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "keywords": [
+    "algorithms",
+    "data-structures", 
+    "javascript",
+    "computer-science",
+    "sorting",
+    "searching",
+    "graphs",
+    "trees",
+    "programming"
+  ],
+  "author": "Carlos Alberto Jurez",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "eslint": "^8.50.0",
+    "@eslint/js": "^9.0.0",
+    "benchmark": "^2.1.4"
+  },
+  "dependencies": {},
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverageFrom": [
+      "**/*.js",
+      "!**/node_modules/**",
+      "!**/coverage/**"
+    ]
+  },
+  "eslintConfig": {
+    "env": {
+      "node": true,
+      "es2021": true,
+      "jest": true
+    },
+    "extends": "eslint:recommended",
+    "parserOptions": {
+      "ecmaVersion": 2021,
+      "sourceType": "module"
+    },
+    "rules": {
+      "indent": ["error", 4],
+      "linebreak-style": ["error", "unix"],
+      "quotes": ["error", "single"],
+      "semi": ["error", "always"]
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/algorithms-data-structures.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/algorithms-data-structures/issues"
+  },
+  "homepage": "https://github.com/your-username/algorithms-data-structures#readme"
+}

@@ -1,0 +1,22 @@
+# Core dependencies
+click>=8.1.0
+rich>=13.0.0
+questionary>=1.10.0
+pyyaml>=6.0
+python-magic>=0.4.27
+send2trash>=1.8.0
+
+# Optional dependencies for enhanced functionality
+Pillow>=9.0.0          # Image processing and metadata
+mutagen>=1.46.0        # Audio file metadata
+python-dateutil>=2.8.2 # Advanced date parsing
+watchdog>=3.0.0        # File system monitoring
+appdirs>=1.4.4         # Cross-platform app directories
+
+# Development and testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=22.0.0          # Code formatting
+flake8>=4.0.0          # Linting
+mypy>=1.0.0            # Type checking
+
