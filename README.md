@@ -27,3 +27,7 @@ Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
 ---
 
 Hecho por Carlos Alberto Juarez
+
+Este repositorio contiene los proyectos de mi portafolio.
+
+Este es un cambio para disparar el workflow de despliegue.
