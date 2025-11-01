@@ -100,3 +100,4 @@ Para demostrar velocidad, calidad de código y comunicación efectiva, ofrezco r
 
 *CV actualizado: Octubre 2025*
 
+
