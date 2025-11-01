@@ -28,7 +28,7 @@ const projects: Project[] = [
   },
 ];
 
-export default function Projects(): JSX.Element {
+export default function Projects(): React.ReactElement {
   return (
     <section id="proyectos" className="border-t border-gray-200 py-14 dark:border-gray-800">
       <div className="mx-auto max-w-5xl px-6">

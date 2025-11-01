@@ -2,9 +2,9 @@
 
 import React from "react";
 
-export default function Hero(): JSX.Element {
+export default function Hero(): React.ReactElement {
   return (
-    <section className="py-16 md:py-24">
+    <section id="hero" className="py-20">
       <div className="mx-auto max-w-5xl px-6">
         <p className="text-sm uppercase tracking-widest text-sky-500">Disponible 100% remoto</p>
         <h1 className="mt-3 text-3xl font-bold leading-tight md:text-5xl">

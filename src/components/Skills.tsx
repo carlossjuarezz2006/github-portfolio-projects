@@ -12,7 +12,7 @@ const skills: string[] = [
   "Git/GitHub",
 ];
 
-export default function Skills(): JSX.Element {
+export default function Skills(): React.ReactElement {
   return (
     <section id="skills" className="border-t border-gray-200 py-14 dark:border-gray-800">
       <div className="mx-auto max-w-5xl px-6">
